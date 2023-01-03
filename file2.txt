@@ -5,3 +5,8 @@ function addNumber(int a, int b, int c, int d) {
 function mulNumber(int a, int b) {
   return a * b;
 }
+
+function subtractNumber(int a, int b) {
+  return a -  b;
+}
+
